@@ -1,1 +1,3 @@
 # Exquisite-Corpse-Pyre-Arthur
+
+Once upon a time, at BeCode, a group of motivated coders...
